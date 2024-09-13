@@ -1,0 +1,20 @@
+.paragraph_odd{
+  background-color: rgb(236, 186, 186);
+  font-family: Verdana, "DejaVu Sansl", sans-serif;
+}
+
+#first-div{
+  color: #0000FF;
+  font-size: 36px;
+}
+
+.special-paragraph{
+  font-size: 24px;
+}
+
+#second-div{
+  background-color: hsl(120, 100%, 75%);
+  font-size: 24px;
+  font-weight: bold;
+}
+
