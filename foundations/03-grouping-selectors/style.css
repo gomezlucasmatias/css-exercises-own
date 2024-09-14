@@ -7,7 +7,7 @@
   background-color: #FFFF00;
 }
 
-.both_buttons{
+.first_button, .second_button{
   font-family: Helvetica, 'Times New Roman' sans-serif;
   font-size: 28px;
   border: 2px solid #545454;
